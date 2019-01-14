@@ -1,5 +1,5 @@
 # nodejs-webpage-scrapper
-How to scrap a web page using Node.js and Puppeteer then emailing the results using Nodemailer.
+How to scrape a web page using Node.js and Puppeteer then emailing the results using Nodemailer.
 
 ## Prerequisites
 * Install **Node.js** [link to Node](https://nodejs.org/en/)
